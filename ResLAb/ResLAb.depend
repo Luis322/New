@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555080920 source:d:\reslab\reslab\main.cpp
+	<iostream>
+	"Empleado.h"
+
+1555078818 source:d:\reslab\reslab\src\empleado.cpp
+
+1555080873 d:\reslab\reslab\include\empleado.h
+	<iostream>
+	<string>
+
