@@ -79,6 +79,25 @@ class IntegerArray {
 
 int main()
 {
+    int array[]={1,2,3,4,5};
+    IntegerArray arr(array,5);
+    IntegerArray *p=&arr;
+    p->print();
+    cout<<endl;
+    p->eliminarPos(2);
+    p->print();
+    cout<<endl;
+    p->insertFinal(1000);
+    p->print();
+    cout<<"--------------------"<<endl;
+    IntegerArray arr2;
+    IntegerArray *p2=&arr2;
+    p2->insertFinal(1);
+    p2->insertPos(20,4);
+    p2->insertPos(15,3);
+
+    p2->print();
+    p2->printPos(2);
 
     return 0;
 }
