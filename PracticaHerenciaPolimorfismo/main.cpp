@@ -52,7 +52,7 @@ class ArrayPolygon{
             //for(int i=0;i<size_;i++)
                 //this->data[i]=arr[i];
         }
-        setSize(int size_){this->size_=size_;}
+        void setSize(int size_){this->size_=size_;}
 
         void insertFinal(Polygon n){
             size_+=1;
@@ -114,7 +114,9 @@ int main()
     //Polygon *arrPoly;
     cout<<"Digite el numero de Polygonos"<<endl;
     cin>>numPoly;
-    Polygon *t;
+    //Polygon *t;
+    Polygon *p=new Polygon[numPoly]{poly1,poly2};
+    cout<<t[0].area();
 
     Polygon *array;
     ArrayPolygon(array,numPoly);
