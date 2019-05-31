@@ -118,8 +118,7 @@ int main()
     Polygon *p=new Polygon[numPoly]{poly1,poly2};
     cout<<t[0].area();
 
-    Polygon *array;
-    ArrayPolygon(array,numPoly);
+    ArrayPolygon m(p,numPoly);
     //Polygon *P->area();
 
     //Polygon *q=&poly2;
