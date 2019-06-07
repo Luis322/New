@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1559908098 source:f:\univ\programacion\final ccomp\tetris consola\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	"Tetromino.h"
+
+1559906336 source:f:\univ\programacion\final ccomp\tetris consola\src\tetromino.cpp
+	"Tetromino.h"
+
+1559907930 f:\univ\programacion\final ccomp\tetris consola\include\tetromino.h
+	<iostream>
+
