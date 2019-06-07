@@ -25,7 +25,9 @@ class Tetromino
         void DibujarOff(){
             cout<<"    ";
         }
-        void Rotacion();
+        void Rotacion(){
+            cout<<"XXX";
+        }
         //~Tetromino();
 
     protected:

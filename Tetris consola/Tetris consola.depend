@@ -12,3 +12,16 @@
 1559907930 f:\univ\programacion\final ccomp\tetris consola\include\tetromino.h
 	<iostream>
 
+1559917974 source:d:\lapb\tetris consola\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	"Tetromino.h"
+
+1559918077 d:\lapb\tetris consola\include\tetromino.h
+	<iostream>
+
+1559901594 source:d:\lapb\tetris consola\src\tetromino.cpp
+	"Tetromino.h"
+
