@@ -110,10 +110,11 @@ int main() {
 
     Point<int> arrPoints[2] = {Point<int>(2,3), Point<int>(4,5)};
 
-    DynamicArray<Point<int> > daPoints(arrPoints, 2);
+    DynamicArray<Point<int> > Points(arrPoints, 2);
     Point<int> p(2,9);
-
-    daPoints.push_back(p);
-    daPoints.print();
+    
+    Points.print();
+    Points.push_back(p);
+    Points.print();
 }
 
