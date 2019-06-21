@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561102776 source:f:\univ\programacion\c++ tareas\fstream 1\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
