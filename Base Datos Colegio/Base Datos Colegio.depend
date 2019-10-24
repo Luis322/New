@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1571933822 source:d:\lapb\base datos colegio\src\administrativo.cpp
+	"Administrativo.h"
+
+1571935628 d:\lapb\base datos colegio\include\administrativo.h
+	"Persona.h"
+
+1571936428 d:\lapb\base datos colegio\include\persona.h
+	<string>
+
+1571935215 source:d:\lapb\base datos colegio\src\alumno.cpp
+	"Alumno.h"
+
+1571935968 d:\lapb\base datos colegio\include\alumno.h
+	"Persona.h"
+
+1571936428 source:d:\lapb\base datos colegio\src\persona.cpp
+	"Persona.h"
+
+1571937283 source:d:\lapb\base datos colegio\main.cpp
+	<iostream>
+	"Persona.h"
+	"Alumno.h"
+
