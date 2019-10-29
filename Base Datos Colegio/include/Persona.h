@@ -14,6 +14,7 @@ class Persona
         int getCodigo();
         void setNombre(string);
         void setEdad(int);
+        virtual void info()=0;
         void generarCodigo();
 
 
