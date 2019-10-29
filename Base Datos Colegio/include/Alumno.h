@@ -5,7 +5,7 @@
 class Alumno:public Persona
 {
     public:
-        Alumno();
+        Alumno(string, int, int);
         void info();
 
 
