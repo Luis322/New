@@ -6,11 +6,12 @@ class Administrativo:public Persona
 {
     public:
         Administrativo();
-        virtual ~Administrativo();
+        void info();
 
     protected:
 
     private:
+        string cargo;
 };
 
 #endif // ADMINISTRATIVO_H
