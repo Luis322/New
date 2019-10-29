@@ -6,11 +6,13 @@ class Alumno:public Persona
 {
     public:
         Alumno();
+        void info();
 
 
     protected:
 
     private:
+        int grado;
 };
 
 #endif // ALUMNO_H
