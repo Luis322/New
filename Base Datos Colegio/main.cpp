@@ -5,8 +5,9 @@ using namespace std;
 
 int main()
 {
-    Persona A;
-    Persona *B=&A;
+    Alumno A;
+    Administrativo C("Edgard",20,"Profe");
+    Alumno *B=&A;
     //Persona A("Edgar",21);
     cout<<B->getNombre()<<endl;
     cout<<B->getEdad()<<endl;
@@ -15,7 +16,10 @@ int main()
     cout<<endl;
     cout<<B->getNombre()<<endl;
     cout<<B->getEdad()<<endl;
-
+    
+    A.info();
+    B->info();
+    C.info();
 
 
 
