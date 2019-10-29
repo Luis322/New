@@ -5,7 +5,7 @@
 class Administrativo:public Persona
 {
     public:
-        Administrativo();
+        Administrativo(string,int,string);
         void info();
 
     protected:
