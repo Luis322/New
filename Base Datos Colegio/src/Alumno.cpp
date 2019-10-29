@@ -7,7 +7,7 @@ Alumno::Alumno()
     codigo = 0;
     grado=0;
 }
-Alumno::Alumno(string _nombre,int _edad, int _grado):Persona(_nombre,_edad)
+Alumno::Alumno(string _nombre,int _edad, int _grado):Persona(_nombre,_edad),grado(_grado){}
 {
     grado=_grado; 
 }
