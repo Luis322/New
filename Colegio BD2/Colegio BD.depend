@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1574341129 source:f:\univ\programacion\final 2019\colegio bd\main.cpp
+	<iostream>
+	<windows.h>
+	"Colegio.h"
+	"Persona.h"
+	"Alumno.h"
+	"Controller.h"
+
+1574335275 source:f:\univ\programacion\final 2019\colegio bd\src\alumno.cpp
+	"Alumno.h"
+	"Persona.h"
+	<string>
+	<iostream>
+
+1573712349 f:\univ\programacion\final 2019\colegio bd\include\alumno.h
+	"Persona.h"
+	<string.h>
+
+1574334810 source:f:\univ\programacion\final 2019\colegio bd\src\persona.cpp
+	"Persona.h"
+	"Alumno.h"
+
+1573716024 f:\univ\programacion\final 2019\colegio bd\include\persona.h
+	<iostream>
+	<string.h>
+
+1574340275 f:\univ\programacion\final 2019\colegio bd\include\colegio.h
+	"Alumno.h"
+	"Administrativo.h"
+	<iostream>
+	<string.h>
+	<cstring>
+
+1574338942 source:f:\univ\programacion\final 2019\colegio bd\src\colegio.cpp
+	"Colegio.h"
+
+1574341129 source:f:\univ\programacion\final 2019\colegio bd\src\controller.cpp
+	"Controller.h"
+	"Colegio.h"
+
+1574341129 f:\univ\programacion\final 2019\colegio bd\include\controller.h
+	"Colegio.h"
+
+1574337434 source:f:\univ\programacion\final 2019\colegio bd\src\administrativo.cpp
+	"Administrativo.h"
+	"Persona.h"
+	<string>
+	<iostream>
+
+1574337434 f:\univ\programacion\final 2019\colegio bd\include\administrativo.h
+	"Persona.h"
+	<string>
+
+1574337434 source:d:\colegio bd2\src\administrativo.cpp
+	"Administrativo.h"
+	"Persona.h"
+	<string>
+	<iostream>
+
+1574347555 d:\colegio bd2\include\administrativo.h
+	"Persona.h"
+	<string>
+
+1574347484 d:\colegio bd2\include\persona.h
+	<iostream>
+	<string.h>
+
+1574335275 source:d:\colegio bd2\src\alumno.cpp
+	"Alumno.h"
+	"Persona.h"
+	<string>
+	<iostream>
+
+1574347477 d:\colegio bd2\include\alumno.h
+	"Persona.h"
+	<string.h>
+
+1574345189 source:d:\colegio bd2\src\persona.cpp
+	"Persona.h"
+	"Alumno.h"
+
+1574356198 source:d:\colegio bd2\src\colegio.cpp
+	"Colegio.h"
+
+1574355551 d:\colegio bd2\include\colegio.h
+	"Alumno.h"
+	"Administrativo.h"
+	<iostream>
+	<string.h>
+	<cstring>
+
+1574356198 source:d:\colegio bd2\src\controller.cpp
+	"Controller.h"
+	"Colegio.h"
+
+1574347483 d:\colegio bd2\include\controller.h
+	"Colegio.h"
+
+1574356460 source:d:\colegio bd2\main.cpp
+	<iostream>
+	<windows.h>
+	"Colegio.h"
+	"Persona.h"
+	"Alumno.h"
+	"Controller.h"
+
+1574923465 source:f:\univ\programacion\final 2019\colegio bd2\main.cpp
+	<iostream>
+	<windows.h>
+	"Colegio.h"
+	"Persona.h"
+	"Alumno.h"
+	"Controller.h"
+
+1574943117 f:\univ\programacion\final 2019\colegio bd2\include\colegio.h
+	"Alumno.h"
+	"Administrativo.h"
+	<iostream>
+	<string.h>
+	<cstring>
+	<fstream>
+	<sstream>
+	<cstdlib>
+
+1574347478 f:\univ\programacion\final 2019\colegio bd2\include\alumno.h
+	"Persona.h"
+	<string.h>
+
+1574347486 f:\univ\programacion\final 2019\colegio bd2\include\persona.h
+	<iostream>
+	<string.h>
+
+1574347556 f:\univ\programacion\final 2019\colegio bd2\include\administrativo.h
+	"Persona.h"
+	<string>
+
+1574347484 f:\univ\programacion\final 2019\colegio bd2\include\controller.h
+	"Colegio.h"
+
+1574337436 source:f:\univ\programacion\final 2019\colegio bd2\src\administrativo.cpp
+	"Administrativo.h"
+	"Persona.h"
+	<string>
+	<iostream>
+
+1574335276 source:f:\univ\programacion\final 2019\colegio bd2\src\alumno.cpp
+	"Alumno.h"
+	"Persona.h"
+	<string>
+	<iostream>
+
+1574952610 source:f:\univ\programacion\final 2019\colegio bd2\src\colegio.cpp
+	"Colegio.h"
+
+1574945199 source:f:\univ\programacion\final 2019\colegio bd2\src\controller.cpp
+	"Controller.h"
+	"Colegio.h"
+	<cstring>
+	<iostream>
+
+1574345190 source:f:\univ\programacion\final 2019\colegio bd2\src\persona.cpp
+	"Persona.h"
+	"Alumno.h"
+
